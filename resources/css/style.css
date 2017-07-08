@@ -4,20 +4,18 @@ header {
  font-weight: bold;
  display: flex;
  border-bottom: 1px solid black;
+ justify-content: space-between;
 }
 
-#logo h1 {
+#logo span {
   color: MediumAquamarine;
 }
 
 nav span {
   dispaly: inline-block;
+  padding: 20px 10px;
 }
 
-#logo {
-  justify-content: flex-start;
-}
-
-nav {
-  justify-content: flex-end;
+nav a {
+  color: black;
 }
