@@ -7,6 +7,7 @@ header {
  justify-content: space-between;
  align-items: center;
  height: 80px;
+ position: fixed;
 }
 
 #logo {
@@ -41,6 +42,7 @@ div {
   display: flex;
   justify-content: space-around;
   margin: 0 auto 75px auto;
+  padding-top: 115px;
 }
 
 .column {
