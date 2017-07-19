@@ -75,6 +75,7 @@ div {
 .cat-headline {
   background-image: url("../images/img-story-1.png");
   display: flex;
+  height: 300px;
 }
 
 .cat-headline span, #story2 span, #story3 span {
@@ -87,6 +88,7 @@ div {
 .hero {
   background-image: url("../images/img-story-main.png");
   display: flex;
+  height: 300px;
 }
 
 .hero span {
@@ -99,9 +101,11 @@ div {
 #story2 {
   background-image: url("../images/img-story-2.png");
   display: flex;
+  height: 300px;
 }
 
 #story3 {
   background-image: url("../images/img-story-3.png");
   display: flex;
+  height: 300px;
 }
