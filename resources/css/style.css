@@ -109,3 +109,12 @@ div {
   display: flex;
   height: 300px;
 }
+
+.stories {
+  display: flex;
+}
+
+.story {
+  display: flex;
+  flex-direction: column;
+}
