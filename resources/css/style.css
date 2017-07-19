@@ -70,16 +70,16 @@ div {
 }
 
 .hero {
-  background-image: url("../images/img-story-main.jpg");
+  background-image: url("../images/img-story-main.png");
   display: flex;
 }
 
 #story2 {
-  background-image: url("../images/img-story-2.jpg");
+  background-image: url("../images/img-story-2.png");
   display: flex;
 }
 
 #story3 {
-  background-image: url("../images/img-story-3.jpg");
+  background-image: url("../images/img-story-3.png");
   display: flex;
 }
