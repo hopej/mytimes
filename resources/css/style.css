@@ -1,5 +1,8 @@
 body {
   margin: 0;
+  font-family: Georgia, serif;
+  font-size: 17px;
+  color: black;
 }
 
 header {
@@ -19,7 +22,7 @@ header {
 
 h2 {
   font-family: Georgia, serif;
-  font-size: 17px;
+  font-size: 30px;
   color: black;
 }
 
