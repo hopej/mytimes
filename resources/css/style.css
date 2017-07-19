@@ -47,10 +47,6 @@ nav a {
   color: black;
 }
 
-div {
-  border: 1px solid black;
-}
-
 #main {
   display: flex;
   justify-content: space-around;
