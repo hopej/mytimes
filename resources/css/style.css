@@ -1,5 +1,8 @@
 body {
   margin: 0;
+  font-family: Georgia, serif;
+  font-size: 17px;
+  color: black;
 }
 
 header {
@@ -69,9 +72,28 @@ div {
   width: 240px;
 }
 
+.cat-headline {
+  background-image: url("../images/img-story-1.png");
+  display: flex;
+}
+
+.cat-headline span, #story2 span, #story3 span {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+
 .hero {
   background-image: url("../images/img-story-main.png");
   display: flex;
+}
+
+.hero span {
+  font-family: Georgia, serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
 }
 
 #story2 {
