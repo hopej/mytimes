@@ -68,3 +68,18 @@ div {
 .column.small {
   width: 240px;
 }
+
+.hero {
+  background-image: url("../images/img-story-main.jpg");
+  display: flex;
+}
+
+#story2 {
+  background-image: url("../images/img-story-2.jpg");
+  display: flex;
+}
+
+#story3 {
+  background-image: url("../images/img-story-3.jpg");
+  display: flex;
+}
