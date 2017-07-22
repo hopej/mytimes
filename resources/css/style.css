@@ -24,6 +24,8 @@ h2 {
   font-family: Georgia, serif;
   font-size: 30px;
   color: black;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 #logo {
