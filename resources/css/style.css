@@ -114,9 +114,11 @@ nav a {
 
 .stories {
   display: flex;
+  justify-content: space-between;
 }
 
 .story {
   display: flex;
   flex-direction: column;
+  width: 300px;
 }
