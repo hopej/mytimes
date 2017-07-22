@@ -156,6 +156,7 @@ footer {
 
 footer nav {
   display: flex;
+  padding-left: 25px;
 }
 
 .info {
