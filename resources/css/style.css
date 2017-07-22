@@ -151,11 +151,18 @@ footer {
   justify-content: center;
   align-items: center;
   height: 325px;
+  flex-direction: row;
+}
+
+footer span {
+  display: flex;
 }
 
 .title {
   font-family: Georgia;
+  display: flex;
   font-size: 16px;
   font-weight: bold;
+  border-right: 2px solid white;
   color: white;
 }
