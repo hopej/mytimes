@@ -22,7 +22,7 @@ header {
 
 h2 {
   font-family: Georgia, serif;
-  font-size: 24px;
+  font-size: 30px;
   color: black;
 }
 
@@ -48,6 +48,10 @@ nav span {
 
 nav a {
   color: black;
+}
+
+header nav {
+  padding-right: 40px;
 }
 
 #main {
@@ -78,6 +82,7 @@ nav a {
   background-image: url("../images/img-story-1.png");
   display: flex;
   height: 300px;
+  align-items: center;
 }
 
 .cat-headline span, #story2 span, #story3 span {
@@ -92,6 +97,7 @@ nav a {
   background-image: url("../images/img-story-main.png");
   display: flex;
   height: 300px;
+  align-items: center;
 }
 
 .hero span {
@@ -101,16 +107,22 @@ nav a {
   color: white;
 }
 
+.callout {
+  margin-top: 15px;
+}
+
 #story2 {
   background-image: url("../images/img-story-2.png");
   display: flex;
   height: 300px;
+  align-itmems: center;
 }
 
 #story3 {
   background-image: url("../images/img-story-3.png");
   display: flex;
   height: 300px;
+  align-items: center;
 }
 
 .stories {
