@@ -151,18 +151,27 @@ footer {
   justify-content: center;
   align-items: center;
   height: 325px;
-  flex-direction: row;
+  flex-direction: column;
 }
 
-footer span {
+footer nav {
   display: flex;
+}
+
+.info {
+  display: flex;
+  align-items: center;
 }
 
 .title {
   font-family: Georgia;
-  display: flex;
   font-size: 16px;
   font-weight: bold;
   border-right: 2px solid white;
   color: white;
+  padding-right: 25px;
+}
+
+.copyright {
+  display: flex;
 }
