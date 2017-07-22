@@ -139,4 +139,23 @@ nav a {
 .news-bites h3 {
   text-transform: uppercase;
   text-align: center;
+  font-size: 16px;
+}
+
+footer {
+  display: flex;
+  background-color: MediumAquamarine;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 12px;
+  justify-content: center;
+  align-items: center;
+  height: 325px;
+}
+
+.title {
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
 }
